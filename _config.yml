@@ -41,4 +41,4 @@ defaults:
     values:
       tags: Outros
       author: Gustavo Saez
-      date: DD-MM-YYYY HH:MM -0300
+      date: "%Y-%m-%d %H:%M"
