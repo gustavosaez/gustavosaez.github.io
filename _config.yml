@@ -40,5 +40,3 @@ defaults:
       type: post
     values:
       tags: Outros
-      author: Gustavo Saez
-      date: "%Y-%m-%d %H:%M"
