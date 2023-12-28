@@ -40,4 +40,3 @@ defaults:
       type: post
     values:
       tags: Outros
-      date: DD-MM-YYYY HH:MM -0300
