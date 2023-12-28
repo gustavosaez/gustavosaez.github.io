@@ -37,6 +37,18 @@ titles_from_headings:
 defaults:
   - scope:
       path: ""
-      type: post
+      type: posts
     values:
       tags: Other
+
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author: "Gustavo Saez"
+
+  - scope:
+      path: ""
+      type: ""
+    values:
+      date: DD-MM-YYYY HH:MM:SS -0300
