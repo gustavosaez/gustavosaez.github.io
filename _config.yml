@@ -39,7 +39,7 @@ defaults:
       path: ""
       type: posts
     values:
-      tags: Other
+      tags: Outros
 
   - scope:
       path: ""
