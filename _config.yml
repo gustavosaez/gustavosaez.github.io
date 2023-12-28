@@ -46,4 +46,4 @@ defaults:
       path: ""
       type: ""
     values:
-      date: "DD-MM-YYYY HH:MM:SS -0300"
+      date: "DD-MM-YYYY HH:MM -0300"
