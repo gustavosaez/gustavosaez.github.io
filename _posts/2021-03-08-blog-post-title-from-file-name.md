@@ -1,10 +1,18 @@
-## Blog Post Title From First Header
+# Primeiro Post - Hello 2024
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+A partir de hoje, os posts do lendário PodApps passará e ter meu nome e serão escritos de forma mais simples usando a linguagem `MARKDOWN`.
 
-If the file does not start with a header, then the post title will be derived from the filename.
+Espero que este siga sendo uma forma agradável de expor e espalhar a cultura de privacidade.
 
-This is a sample blog post. You can talk about all sorts of fun things here.
+```
+O motivo inicial da mudança foi a falta de patrocínio e o alto custo comparado ao retorno financeiro. Como o PodApps nunca usou de anúncios, passou a ser 100% financiado por ouvintes e leitores, o que, com o tempo, passou a decair inviabilizando a continuidade do projeto.
+```
+
+É claro que este é um blog simples, sem grandes "frufrus" e gratuito, a qualidade de conteúdo seguirá a mesma de sempre.
+
+Obrigado!
+Gustavo Saez.
+[![Gustavo Saez](https://https://gustavosaez.com.br/images/avatar.jpeg)](https://gustavosaez.com.br)
 
 ---
 
@@ -12,7 +20,7 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 
 #### Some T-SQL Code
 
-```tsql
+```sql
 SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
     , REVERSE('abc')
 FROM dbo.SomeTable s
