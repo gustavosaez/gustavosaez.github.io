@@ -41,9 +41,4 @@ defaults:
     values:
       tags: Outros
       author: Gustavo Saez
-
-  - scope:
-      path: ""
-      type: ""
-    values:
-      date: "DD-MM-YYYY HH:MM -0300"
+      date: DD-MM-YYYY HH:MM -0300
