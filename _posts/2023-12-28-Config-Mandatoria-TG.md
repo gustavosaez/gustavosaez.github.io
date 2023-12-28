@@ -18,27 +18,27 @@ Configurações > Privacidade e Segurança (Settings > Privacy and Security)
 ```
 
 Primeiro passo de tudo é configurar seu nome de usuário, assim as configurações abaixo farão mais sentido. Na página inicial de configurações no app toque em “Editar”
-![Alt text](<CleanShot 2023-12-28 — 09h35m29s.png>)
+![Alt text](</images/CleanShot 2023-12-28 — 09h35m29s.png>)
 
 Depois toque em nome de usuário
 
-![Alt text](<CleanShot 2023-12-28 — 09h36m15s.png>)
+![Alt text](</images/CleanShot 2023-12-28 — 09h36m15s.png>)
 
 Defina seu "arroba" e pronto
 
-![Alt text](<CleanShot 2023-12-28 — 09h36m38s.png>)
+![Alt text](</images/CleanShot 2023-12-28 — 09h36m38s.png>)
 
 ## Abaixo vamos nos familiarizar com todos os itens que estão dentro dessa seção de Privacidade e Segurança.
 
-![Alt text](<CleanShot 2023-12-28 — 09h37m35s.png>)
+![Alt text](</images/CleanShot 2023-12-28 — 09h37m35s.png>)
 
 Vamos iniciar configurando uma **senha**
 
-![Alt text](<CleanShot 2023-12-28 — 09h38m11s.png>)
+![Alt text](</images/CleanShot 2023-12-28 — 09h38m11s.png>)
 
 Defina uma senha complexa, caso precise de ajuda, você poderá usar meu [Gerador de Senhas](https://gustavosaez.com.br/geradordesenhas).
 
-![Alt text](<CleanShot 2023-12-28 — 09h39m12s.png>)
+![Alt text](</images/CleanShot 2023-12-28 — 09h39m12s.png>)
 
 Agora defina a periodicidade que o Telegram exigirá a senha. Vale ressaltar que em dispositivos que desbloqueiam com biometria, esta biometria facilitará o processo de desbloqueio, evitando que digite uma senha complexa toda vez.
 
@@ -50,7 +50,7 @@ Nesta etapa voce deverá definir uma senha que o Telegram irá pedir sempre que 
 
 Mais uma vez, você pode usar o meu [Gerador de Senhas](https://gustavosaez.com.br/geradordesenhas).
 
-![Alt text](<CleanShot 2023-12-28 — 09h42m50s-1.png>)
+![Alt text](</images/CleanShot 2023-12-28 — 09h42m50s-1.png>)
 
 ````
 IMPORTANTE: Se você esquecer essa senha, sua conta será perdida, não será possível logar-se sem ela. Isso demonstra a importância dessa senha e a segurança que o Telegram oferece à você. Defina-a bem!
@@ -60,21 +60,21 @@ IMPORTANTE: Se você esquecer essa senha, sua conta será perdida, não será po
 
 Estas são as minhas configurações e ninguém poderá ver meu número, com isso, somente meus contatos poderão encontrar meu perfil no Telegram via meu número. Claro que tudo é personalizável como você desejar.
 
-![Alt text](<CleanShot 2023-12-28 — 09h44m34s.png>)
+![Alt text](</images/CleanShot 2023-12-28 — 09h44m34s.png>)
 
 ## Até aqui as imagens falaram por si, mas eis uma seção muito interessante.
 
-![Alt text](<CleanShot 2023-12-28 — 09h46m36s.png>)
+![Alt text](</images/CleanShot 2023-12-28 — 09h46m36s.png>)
 
 Quando falamos de mensagens encaminhadas, nos referimos ao contato que publicou a mensagem, como pode ver abaixo
 
-![Alt text](<CleanShot 2023-12-28 — 09h46m54s-1.png>)
+![Alt text](</images/CleanShot 2023-12-28 — 09h46m54s-1.png>)
 
 Quando não está em negrito, significa que sua conta está privada/oculta, logo, não levará ao dono da mensagem. Recomendadíssimo que deixe configurado para NINGUÉM, assim, ninguém chegará à você através de uma mensagem sua que foi encaminhada.
 
 ## Pra fechar, as demais configurações da página
 
-![Alt text](<CleanShot 2023-12-28 — 09h50m22s.png>)
+![Alt text](</images/CleanShot 2023-12-28 — 09h50m22s.png>)
 
 Defina para que o Telegram apague sua conta somente após 1 ano de inatividade (espero que não fique tudo isso sem usá-lo).
 
