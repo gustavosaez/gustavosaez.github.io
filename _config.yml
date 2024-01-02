@@ -57,8 +57,11 @@ plugins:
 
 titles_from_headings:
   strip_title: true
-  collections: false
+  collections: true
 
+header_pages:
+  - appteca
+  - episodios
 
 permalink: /:categories/:year/:month/:day/:title:output_ext
 
