@@ -2,6 +2,7 @@
 layout: tag
 title: "Tag: 2FA"
 permalink: /tag/2fa
+exclude: true
 ---
 
 <ul class="post-list">
