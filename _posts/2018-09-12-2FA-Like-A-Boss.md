@@ -2,7 +2,7 @@
 title: 2FA Like a Boss
 author: Gustavo 
 categories: episodios
-tags: 2fa, appteca
+#tags: 2fa, appteca
 ---
 
 # 2FA Like a Boss
