@@ -4,7 +4,7 @@
 
 Gustavo Saez fala sobre backup, se este também é seu desespero, não deixe de ouvir e comentar o que achou com a #PodAppsInterage
 
-Links citados:
+```Links citados``````:
 - [Halide](apple.co/2qb0Z3Z)
 - [Darkroom](apple.co/2OLsiAu)
 - [Gemini](apple.co/2D57wpi)
@@ -13,20 +13,6 @@ Links citados:
 - [CopyTransfer](www.copytrans.net/)
 - [iTunes](www.apple.com/itunes/)
 
-Site:
-Http://msaezscrap.com.br
+Contatos: [https://gustavosaez.com.br](https://gustavosaez.com.br)
 
-Telegram:
-https://t.me/gustavosaez
-
-Canal no Telegram:
-Https://t.me/podapps
-
-Instagram:
-www.instagram.com/gustavosaez_/
-
-Twitter Gustavo Saez:
-
-twitter.com/gustavosaez
-
-Apoie o Podcast em: https://apoia.se/podapps
+Apoie o Podcast em: [https://apoia.se/podapps](https://apoia.se/podapps)
