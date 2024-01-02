@@ -26,3 +26,4 @@ Se você gostou desse episódio, não deixe de avaliar na itunes store, isso aju
 Contatos: [https://gustavosaez.com.br](https://gustavosaez.com.br)
 
 Apoie o Podcast em: [https://apoia.se/podapps](https://apoia.se/podapps)
+
