@@ -23,8 +23,6 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
-    {% include navlinks.html %}
-  </div>
 
   <div class="row">
     <div class="col-12">
@@ -33,6 +31,10 @@ layout: default
         <a href="/tag/{{ tag | downcase | replace: ' ', '-' }}" class="post">#{{ tag }}</a>
       {% endfor %}
     </div>
+  </br>
+
+    {% include navlinks.html %}
+  </div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
