@@ -60,8 +60,8 @@ titles_from_headings:
   collections: true
 
 header_pages:
-  - appteca
-  - episodios
+  - _posts/appteca
+  - _posts/episodios
 
 permalink: /:categories/:year/:month/:day/:title:output_ext
 
