@@ -25,4 +25,4 @@ Contatos: [https://gustavosaez.com.br](https://gustavosaez.com.br)
 
 Apoie o Podcast em: [https://apoia.se/podapps](https://apoia.se/podapps)
 
-🗄️{{ page.categories }} | 🏷️{{ page.tags }}
+🗄️{{ page.categories }}
