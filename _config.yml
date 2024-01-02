@@ -57,7 +57,8 @@ plugins:
 
 titles_from_headings:
   strip_title: true
-  collections: true
+  collections: false
+
 
 permalink: /:categories/:year/:month/:day/:title:output_ext
 
