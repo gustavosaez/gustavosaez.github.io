@@ -38,4 +38,5 @@ defaults:
       path: ""
       type: post
     values:
-      tags: Outros
+categories: appteca, destaques, episodios, post
+      tags: mensageiro, signal, whatsapp, telegram, cofre, 1password, bitwarden, chavesenha, passkey, enpass, golpe, phishing, senha, vazamento, dadossensiveis, genetica, adblocker, adguard, ads, anuncio, macos, windows, brave, chrome, edge, google, duckduckgo, navegadores, rastreadores, rastreamento, apple, applesuporte, redesocial, midiasocial, mobile, seguranca, skype, ai, ia, chatgpt, openai, ibm, crianca, facebook, meta, firefox, safari, internet, privacidade, fitness, strava, faceid, iphone, ipad, macbook, appletv, applewatch, email, touchid, ios, ipados, tvos, android, vpn, engenhariasocial, crime, howto, comofazer, gerenciadordesenhas, paypal, 2fa, lastpass, hackeado, reddit, geolocalizacao, threema, vulnerabilidade, lgpd, gdpr, instagram, cookies, twitter, tiktok, threads
