@@ -59,9 +59,10 @@ titles_from_headings:
   strip_title: true
   collections: true
 
-#header_pages:
-#  - categories.html
-#  - archive.md
+header_pages:
+  - 1_development.markdown
+  - 2_stories.markdown
+  - 9_about.markdown
 
 
 permalink: /:categories/:year/:month/:day/:title:output_ext
