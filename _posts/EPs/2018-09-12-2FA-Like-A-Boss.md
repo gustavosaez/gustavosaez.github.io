@@ -2,8 +2,8 @@
 layout: post
 title: "2FA Like a Boss" #titulo para a barra de enderecos
 date: 2018-09-12 10:06:00 -0300 #formato padrão data e hora
-categories: episodios
-path: "episodios" #caminho da pasta
+categories: Episodios
+path: "EPs" #caminho da pasta
 tags: [ "2fa" ]
 ---
 

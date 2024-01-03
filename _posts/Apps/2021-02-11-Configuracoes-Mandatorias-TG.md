@@ -2,8 +2,8 @@
 layout: post
 title: "Configurações mandatórias pra ter um Telegram Seguro" #titulo para a barra de enderecos
 date: 2021-02-11 17:21:00 -0300 #formato padrão data e hora
-categories: appteca
-path: "appteca" #caminho da pasta
+categories: Apps
+path: "Apps" #caminho da pasta
 tags: [ "telegram" ]
 ---
 

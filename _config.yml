@@ -60,8 +60,9 @@ titles_from_headings:
   collections: true
 
 header_pages:
-  - archive.md
   - categories.html
+  - archive.md
+
 
 permalink: /:categories/:year/:month/:day/:title:output_ext
 
