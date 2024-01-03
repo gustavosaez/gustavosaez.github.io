@@ -27,8 +27,9 @@ layout: default
   </br></br>
   <div class="row">
     <div class="col-12">
+      🏷️ Tags: 
       {% for tag in page.tags %}
-      🏷️ Tags: <a href="/tag/{{ tag | downcase | replace: ' ', '-' }}" class="post">#{{ tag }}</a>
+        <a href="/tag/{{ tag | downcase | replace: ' ', '-' }}" class="post">#{{ tag }}</a>
       {% endfor %}
     </div>
 
