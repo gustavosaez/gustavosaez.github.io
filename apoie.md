@@ -32,16 +32,18 @@ Se você já escutou, leu ou obteve ajuda com o conteúdo, considere apoiar e pa
       transition-duration: 0.4s;
       cursor: pointer;
     }
+    /*Botão Paypal*/
     .button2 {
       background-color: white; 
       color: #4191DD; 
       border: 2px solid #4191DD;
       border-radius: 100px;
-    }   
+    } 
     .button2:hover {
       background-color: #4191DD;
       color: white;
-    }   
+    } 
+    /*Botão Paypal*/    
     .button3 {
       background-color: white; 
       color: #6B73D7; 
@@ -52,6 +54,7 @@ Se você já escutou, leu ou obteve ajuda com o conteúdo, considere apoiar e pa
       background-color: #6B73D7;
       color: white;
     }
+    /*Botão PIX*/  
     .button4 {
       background-color: white; 
       color: #250D4A; 
@@ -62,6 +65,7 @@ Se você já escutou, leu ou obteve ajuda com o conteúdo, considere apoiar e pa
       background-color: #250D4A;
       color: white;
     }
+    /*Botão Mercado Pago*/  
     .button5 {
       background-color: white; 
       color: #73ADDF; 
@@ -72,71 +76,37 @@ Se você já escutou, leu ou obteve ajuda com o conteúdo, considere apoiar e pa
       background-color: #73ADDF;
       color: white;
     }
-</style>
-
-<body>
-    <button class="button button2" target="_blank" onclick="window.location.href='https://paypal.me/gustavosaez';">Paypal</button>
-    <button class="button button3" target="_blank" onclick="window.location.href='https://donate.stripe.com/bIYg0B4JL5xI0Vy4gl';">Stripe</button>
-    <button class="button button4" target="_blank" onclick="window.location.href='https://nubank.com.br/pagar/3o2u3/hIoRzYDcO1';">PIX</button>
-    <button class="button button5" target="_blank" onclick="window.location.href='link.mercadopago.com.br/gustavosaez';">Mercado Pago</button>
-</body>
-</html>
-
-Você também tem a opção de dar seu apoio com recorrência mensal via ```Apoia.se``` e ```Stripe```
-
-<html>
-<style>
+    /*Botão Apoia-se*/   
     .button6 {
       background-color: white; 
       color: #C5504A; 
       border: 2px solid #C5504A;
       border-radius: 100px;
-    }   
+    }
     .button6:hover {
       background-color: #C5504A;
       color: white;
-    }   
-    .button7 {
-      background-color: white; 
-      color: #6B73D7; 
-      border: 2px solid #6B73D7;
-      border-radius: 100px;
-    }    
-    .button7:hover {
-      background-color: #6B73D7;
-      color: white;
-    }
-    .button8 {
-      background-color: white; 
-      color: #6B73D7; 
-      border: 2px solid #6B73D7;
-      border-radius: 100px;
-    }    
-    .button8:hover {
-      background-color: #6B73D7;
-      color: white;
-    }
-    .button9 {
-      background-color: white; 
-      color: #6B73D7; 
-      border: 2px solid #6B73D7;
-      border-radius: 100px;
-    }    
-    .button9:hover {
-      background-color: ##6B73D7;
-      color: white;
     }
 </style>
-  
-<body> 
+
+<div>
+    <button class="button button2" target="_blank" onclick="window.location.href='https://paypal.me/gustavosaez';">Paypal</button>
+    <button class="button button3" target="_blank" onclick="window.location.href='https://donate.stripe.com/bIYg0B4JL5xI0Vy4gl';">Stripe</button>
+    <button class="button button4" target="_blank" onclick="window.location.href='https://nubank.com.br/pagar/3o2u3/hIoRzYDcO1';">PIX</button>
+    <button class="button button5" target="_blank" onclick="window.location.href='link.mercadopago.com.br/gustavosaez';">Mercado Pago</button>
+</div>
+<BR>
+
+Você também tem a opção de dar seu apoio com recorrência mensal via ```Apoia.se``` e ```Stripe```
+
+<div> 
+    <button class="button button3" target="_blank" onclick="window.location.href='https://buy.stripe.com/3cs8y92BDe4e1ZC4gm';">R$ 4,90</button>
+    <button class="button button3" target="_blank" onclick="window.location.href='https://buy.stripe.com/00gg0B4JL6BM9s4fZ8';">R$ 16,90</button>
+    <button class="button button3" target="_blank" onclick="window.location.href='https://buy.stripe.com/fZebKlb895xIgUwcMZ';">R$ 54,90</button>
     <button class="button button6" target="_blank" onclick="window.location.href='https://apoia.se/podapps';">Apoia-se</button>
-    <button class="button button7" target="_blank" onclick="window.location.href='https://buy.stripe.com/3cs8y92BDe4e1ZC4gm';">R$ 4,90</button>
-    <button class="button button8" target="_blank" onclick="window.location.href='https://buy.stripe.com/00gg0B4JL6BM9s4fZ8';">R$ 16,90</button>
-    <button class="button button9" target="_blank" onclick="window.location.href='https://buy.stripe.com/fZebKlb895xIgUwcMZ';">R$ 54,90</button>
+</div>
 
-</body>
 </html>
-
 <br>
 
 # 🙏🏻 Cancelamento
