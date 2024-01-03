@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fintechs – a cada esquina 💸💰" #titulo para a barra de enderecos
-date: 2019-97-27 23:52 -0300 #formato padrão data e hora
+date: 2019-07-27 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
 tags: [ "fintech" ]
