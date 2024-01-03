@@ -1,10 +1,7 @@
 ---
 layout: page
-title: 🤝 Apoie o PodApps
+title: 🤝 Apoie
 ---
-
-# 🤝 Apoie o PodApps
-___
 
 ![cofrinho](/images/cofrinho-apoie.png)
 
@@ -77,13 +74,12 @@ Se você já escutou, leu ou obteve ajuda com o conteúdo, considere apoiar e pa
     }
 </style>
 
-  <head>
 <body>
     <button class="button button2" target="_blank" onclick="window.location.href='https://paypal.me/gustavosaez';">Paypal</button>
     <button class="button button3" target="_blank" onclick="window.location.href='https://donate.stripe.com/bIYg0B4JL5xI0Vy4gl';">Stripe</button>
     <button class="button button4" target="_blank" onclick="window.location.href='https://nubank.com.br/pagar/3o2u3/hIoRzYDcO1';">PIX</button>
     <button class="button button5" target="_blank" onclick="window.location.href='link.mercadopago.com.br/gustavosaez';">Mercado Pago</button>
-  </head>
+
 </body>
 </html>
 
@@ -134,14 +130,12 @@ Você também tem a opção de dar seu apoio com recorrência mensal via ```Apoi
       color: white;
     }
 </style>
-
-  <head>   
+  
 <body> 
     <button class="button button6" target="_blank" onclick="window.location.href='https://apoia.se/podapps';">Apoia-se</button>
     <button class="button button7" target="_blank" onclick="window.location.href='https://buy.stripe.com/3cs8y92BDe4e1ZC4gm';">R$ 4,90</button>
     <button class="button button8" target="_blank" onclick="window.location.href='https://buy.stripe.com/00gg0B4JL6BM9s4fZ8';">R$ 16,90</button>
     <button class="button button9" target="_blank" onclick="window.location.href='https://buy.stripe.com/fZebKlb895xIgUwcMZ';">R$ 54,90</button>
-  </head>
 </body>
 </html>
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tags
+title: 🏷️ Tags
 ---
 
 {% for tag in site.tags %}
