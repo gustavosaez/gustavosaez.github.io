@@ -98,6 +98,7 @@ Se você já escutou, leu ou obteve ajuda com o conteúdo, considere apoiar e pa
 <BR>
 
 Você também tem a opção de dar seu apoio com recorrência mensal via ```Apoia.se``` e ```Stripe```
+<BR>
 
 <div> 
     <button class="button button3" target="_blank" onclick="window.location.href='https://buy.stripe.com/3cs8y92BDe4e1ZC4gm';">R$ 4,90</button>
