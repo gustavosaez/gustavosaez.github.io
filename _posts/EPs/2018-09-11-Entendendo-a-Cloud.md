@@ -21,7 +21,3 @@ Gustavo Saez fala sobre backup, se este também é seu desespero, não deixe de 
 - [iMazing](imazing.com)
 - [CopyTransfer](www.copytrans.net/)
 - [iTunes](www.apple.com/itunes/)
-
-Contatos: [https://gustavosaez.com.br](https://gustavosaez.com.br)
-
-Apoie o Podcast em: [https://apoia.se/podapps](https://apoia.se/podapps)

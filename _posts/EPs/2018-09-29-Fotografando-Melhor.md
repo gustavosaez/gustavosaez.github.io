@@ -13,18 +13,13 @@ tags: [ "iPhone", "fotografia" ]
 
 Gustavo Saez fala sobre melhores práticas para tirar boas fotos com seu iPhone e bons apps para edição.
 
-[TouchRetouch](https://itunes.apple.com/br/app/touchretouch/id373311252?l=en&mt=8)
+`APPS`
 
-[ProCam 6](https://itunes.apple.com/br/app/procam-6/id730712409?l=en&mt=8)
-
-[Camera+ 2](https://itunes.apple.com/br/app/camera-2/id1313580627?l=en&mt=8)
-
-[Obscura](https://itunes.apple.com/br/app/obscura-2/id1290342794?l=en&mt=8)
-
-[Pixomatic](https://itunes.apple.com/br/app/pixomatic-photo-editor/id1080114119?l=en&mt=8)
-
-[Pixelmator](https://itunes.apple.com/br/app/pixelmator/id924695435?l=en&mt=8)
-
-[Phocus](https://itunes.apple.com/br/app/phocus-portrait-mode-editor/id1211807807?l=en&mt=8)
-
-[Fotos tiradas com iPhone 6s, sem edição, apenas foco, exposição e ângulo](https://imgur.com/gallery/QwQ8osX)
+- [TouchRetouch](https://itunes.apple.com/br/app/touchretouch/id373311252?l=en&mt=8)
+- [ProCam 6](https://itunes.apple.com/br/app/procam-6/id730712409?l=en&mt=8)
+- [Camera+ 2](https://itunes.apple.com/br/app/camera-2/id1313580627?l=en&mt=8)
+- [Obscura](https://itunes.apple.com/br/app/obscura-2/id1290342794?l=en&mt=8)
+- [Pixomatic](https://itunes.apple.com/br/app/pixomatic-photo-editor/id1080114119?l=en&mt=8)
+- [Pixelmator](https://itunes.apple.com/br/app/pixelmator/id924695435?l=en&mt=8)
+- [Phocus](https://itunes.apple.com/br/app/phocus-portrait-mode-editor/id1211807807?l=en&mt=8)
+- [Fotos tiradas com iPhone 6s, sem edição, apenas foco, exposição e ângulo](https://imgur.com/gallery/QwQ8osX)

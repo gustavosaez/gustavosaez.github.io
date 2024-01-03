@@ -14,7 +14,7 @@ tags: [ "bateria" ]
 Gustavo Saez te mostrará como entender a bateria, o que são miliamperes e como melhorar a vida util da sua bateria!
 Com direito a cenas pós-créditos, aproveite a promoção da Apple para troca de baterias por 149 reais.
 
-Links citados:
+`Links citados`:
 
 - [iMazing](https://imazing.com)
 - [iTools](https://www.thinkskysoft.com/itools/)
