@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Privacidade Mensageira" #titulo para a barra de enderecos
-date: 2018-12-03 21:50 -0300 #formato padrão data e hora
+date: 2018-12-03 21:51 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
 tags: [ "telegram", "signal", "whatsapp", "messenger", "threema" ]
 ---
 
-# Fotografando Melhor
+# Privacidade Mensageira
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/podapps/id1434188907?i=1000425058298&theme=auto"></iframe>
 

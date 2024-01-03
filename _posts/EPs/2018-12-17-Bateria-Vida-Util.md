@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Bateria e sua vida útil" #titulo para a barra de enderecos
-date: 2018-12-17 21:50 -0300 #formato padrão data e hora
+date: 2018-12-17 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
 tags: [ "bateria" ]
 ---
 
-# Fotografando Melhor
+# Bateria e sua vida útil
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/podapps/id1434188907?i=1000425939938&theme=auto"></iframe>
 
