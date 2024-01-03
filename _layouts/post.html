@@ -28,7 +28,7 @@ layout: default
   <div class="row">
     <div class="col-12">
       {% for tag in page.tags %}
-        <a href="/tag/{{ tag | downcase | replace: ' ', '-' }}" class="post">🏷️ Tags: #{{ tag }}</a>
+      🏷️ Tags: <a href="/tag/{{ tag | downcase | replace: ' ', '-' }}" class="post">#{{ tag }}</a>
       {% endfor %}
     </div>
 
@@ -39,7 +39,7 @@ layout: default
       {% assign categories = page.categories %}
     {% endif %}
     {% for category in categories %}
-    <a href="{{site.baseurl}}/categories/#{{category|slugize}}">🗄️ Categorias: {{category}}</a>
+    🗄️ Categorias: <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
     {% unless forloop.last %}&nbsp;{% endunless %}
     {% endfor %}
   </div>
