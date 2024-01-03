@@ -83,7 +83,6 @@ Se você já escutou, leu ou obteve ajuda com o conteúdo, considere apoiar e pa
 </body>
 </html>
 
-</br>
 
 Você também tem a opção de dar seu apoio com recorrência mensal via ```Apoia.se``` e ```Stripe```
 
@@ -136,6 +135,7 @@ Você também tem a opção de dar seu apoio com recorrência mensal via ```Apoi
     <button class="button button7" target="_blank" onclick="window.location.href='https://buy.stripe.com/3cs8y92BDe4e1ZC4gm';">R$ 4,90</button>
     <button class="button button8" target="_blank" onclick="window.location.href='https://buy.stripe.com/00gg0B4JL6BM9s4fZ8';">R$ 16,90</button>
     <button class="button button9" target="_blank" onclick="window.location.href='https://buy.stripe.com/fZebKlb895xIgUwcMZ';">R$ 54,90</button>
+    </br>
 </body>
 </html>
 
