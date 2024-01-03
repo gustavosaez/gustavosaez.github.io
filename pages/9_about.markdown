@@ -1,8 +1,8 @@
 ---
 layout: page
-menu: about
-title: About
-permalink: /bennguyen/
+menu: episodios
+title: Episódios
+permalink: /_posts/EPs/
 ---
 
 

@@ -1,12 +1,12 @@
 ---
 layout: page
-menu: stories
-title: Stories
-permalink: /stories/
+menu: apps
+title: Apps
+permalink: /_posts/Apps/
 ---
 
 <ul class="post-list">
-  {%- for post in site.categories['stories'] -%}
+  {%- for post in site.categories['apps'] -%}
     <li>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <span class="post-meta">
