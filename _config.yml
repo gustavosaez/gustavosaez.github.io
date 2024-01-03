@@ -60,9 +60,8 @@ titles_from_headings:
   collections: true
 
 header_pages:
-  - 1_development.markdown
-  - 2_stories.markdown
-  - 9_about.markdown
+  - categories.html
+  - archive.md
 
 
 permalink: /:categories/:year/:month/:day/:title:output_ext
