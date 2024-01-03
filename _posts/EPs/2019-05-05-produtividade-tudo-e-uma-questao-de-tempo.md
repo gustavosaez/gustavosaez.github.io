@@ -6,7 +6,7 @@ categories: Episódios
 path: "EPs" #caminho da pasta
 tags: [ "produtividade" ]
 ---
-
+![alt text](/images/CleanShot%202023-12-28%20—%2009h35m29s.png)
 # Produtividade – Tudo é uma questão de tempo⌚️⏰
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/podapps/id1434188907?i=1000437262268&theme=auto"></iframe>
