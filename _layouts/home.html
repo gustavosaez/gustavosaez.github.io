@@ -25,12 +25,14 @@ layout: default
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
       <li>
+        <!-- add featured image on header
         {%- if post.image -%}
           <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image">
         {%- else -%}
           {%- assign postImage = "images/image-default.png" -%}
           <img src="{{- postImage | relative_url -}}" alt="" class="blog-roll-image">
         {%- endif -%}
+        -->
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <span class="post-meta" style="padding-left: 20px;">
           {%- for tag in post.tags -%}

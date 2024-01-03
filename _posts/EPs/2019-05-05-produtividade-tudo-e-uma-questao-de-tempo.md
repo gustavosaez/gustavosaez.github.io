@@ -5,7 +5,7 @@ date: 2019-05-05 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
 tags: [ "produtividade" ]
-image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
+#image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 
 # Produtividade – Tudo é uma questão de tempo⌚️⏰
