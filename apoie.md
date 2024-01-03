@@ -77,8 +77,8 @@ Se você já escutou, leu ou obteve ajuda com o conteúdo, considere apoiar e pa
     }
 </style>
 
-   
-<body> 
+  <head>
+<body>
     <button class="button button2" target="_blank" onclick="window.location.href='https://paypal.me/gustavosaez';">Paypal</button>
     <button class="button button3" target="_blank" onclick="window.location.href='https://donate.stripe.com/bIYg0B4JL5xI0Vy4gl';">Stripe</button>
     <button class="button button4" target="_blank" onclick="window.location.href='https://nubank.com.br/pagar/3o2u3/hIoRzYDcO1';">PIX</button>
@@ -135,7 +135,7 @@ Você também tem a opção de dar seu apoio com recorrência mensal via ```Apoi
     }
 </style>
 
-   
+  <head>   
 <body> 
     <button class="button button6" target="_blank" onclick="window.location.href='https://apoia.se/podapps';">Apoia-se</button>
     <button class="button button7" target="_blank" onclick="window.location.href='https://buy.stripe.com/3cs8y92BDe4e1ZC4gm';">R$ 4,90</button>
@@ -145,7 +145,6 @@ Você também tem a opção de dar seu apoio com recorrência mensal via ```Apoi
 </body>
 </html>
 
-</br>
 
 # 🙏🏻 Cancelamento
 
