@@ -97,7 +97,7 @@ Se você já escutou, leu ou obteve ajuda com o conteúdo, considere apoiar e pa
 </div>
 <BR>
 
-Você também tem a opção de dar seu apoio com recorrência mensal via ```Apoia.se``` e ```Stripe```
+Você também tem a opção apoiar com recorrência mensal via `Apoia.se` ou `Stripe` (_melhor opção_)
 <BR>
 
 <div> 
