@@ -125,3 +125,4 @@ X^2^
 
 ### Links parceiros
 [AdGuard](https://stacksocial.com/sales/adguard-family-plan-lifetime-subscription?aid=a-8qb2xec9), [Diagrams](https://podapps.net/r/diagrams), [Restream.io](https://restream.io/join/lY6wDl), [Jumbo](https://subscriptions.jumboprivacy.com/referrals/552d4804-3c26-470a-b2a3-772d6258285b), [NextDNS](https://nextdns.io/?from=fvzms9za), [Professor do iPhone](https://podapps.net/r/pdip), [Pier](https://www.pier.digital/seguro-celular?referral_id=a61694d0-15b1-43d7-9f85-b9e4969e5e05&referral_name=Gustavo&utm_source=referral&utm_medium=pier_referral), [Amazon](https://amzn.to/3RiQxTc), [Insider Store](https://www.insiderstore.com.br/a/rewards/r/YODDoQBr)
+
