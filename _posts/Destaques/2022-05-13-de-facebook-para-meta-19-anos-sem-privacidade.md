@@ -169,6 +169,7 @@ Toda vez que o Facebook se envolve em uma polêmica — repassar seus dados para
 
 ### Maio
 ![](/images/whats-brian.jpg)
+
 Antes mesmo de chegarmos no meio do ano, o CEO do WhatsApp, Jan Koum, deixa o Facebook e alega incompatibilidade de direção, pois o Facebook queria cada vez mais dados sobre os usuários para direcionamento de anúncios. Vale lembrar, que mais acima, eu comentei as 3 exigências que foram feitas para conclusão da venda do WhatsApp, e parece que já não eram seguidas há anos, ao passo de se tornar insustentável a permanência na direção do App.
 
 *   [CEO do WhatsApp deixa Facebook após disputa sobre privacidade dos usuários](https://tecnoblog.net/noticias/2018/05/01/jan-koum-whatsapp-deixa-facebook/)(Tecnoblog)
