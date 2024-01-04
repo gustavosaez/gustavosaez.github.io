@@ -81,6 +81,8 @@ Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 
+Eu tenho mais [^1] pra dizer. [^1]: diga aqui.
+
 ### Heading ID
 
 ### My Great Heading {#custom-id}
@@ -117,3 +119,6 @@ H~2~O
 ### Superscript
 
 X^2^
+
+### Link + Imagens
+[![Legenda](url da img)](url para a pagina)]
