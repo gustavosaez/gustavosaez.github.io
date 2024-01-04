@@ -31,11 +31,8 @@ tags: [ "engenhariasocial", "golpe" ]
 - [Netflix: O Golpista do Tinder](https://www.netflix.com/title/81254340)
 - [#26.1 – Engenharia social não faz conta, mas pode pegar a sua conta](https://gustavosaez.github.io/epis%C3%B3dios/2020/02/08/engenharia-social-nao-faz-conta-mas-pode-pegar-a-sua-conta.html)
 - [#26 – Engenharia social não faz conta, mas pode pegar a sua conta](https://gustavosaez.github.io/epis%C3%B3dios/2020/02/08/engenharia-social-nao-faz-conta-mas-pode-pegar-a-sua-conta.html)
-- Enpass, um gerenciador de senhas robusto e gratuito
-- Como identificar quem vazou ou vendeu seus dados?
-
-`CONVIDADO ESPECIAL`
-- [Vinicius Kiss](https://vkiss.com.br/)  
+- [Enpass, um gerenciador de senhas robusto e gratuito](https://gustavosaez.github.io/post/2022/01/29/enpass-um-gerenciador-de-senhas-robusto-e-gratuito.html)
+- [Como identificar quem vazou ou vendeu seus dados?](https://gustavosaez.github.io/post/2022/01/15/como-identificar-quem-vazou-ou-vendeu-seus-dados.html)
 
 `#PARCEIRO👥`
 
