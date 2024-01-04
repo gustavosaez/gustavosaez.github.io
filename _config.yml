@@ -67,8 +67,8 @@ defaults:
       type: post
     values:
 header_pages:
-  - categories.md
-  - archive.md
+#  - categories.md
+  - tag.md
   - apoie.md
   - servicos.md
 #categories: appteca, destaques, episodios, post
