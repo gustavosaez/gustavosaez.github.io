@@ -4,7 +4,7 @@ title: "Enpass, um gerenciador de senhas robusto e gratuito" #titulo para a barr
 date: 2022-01-28 23:52 -0300 #formato padrão data e hora
 categories: Post
 path: "_posts" #caminho da pasta
-tags: [ "cofre", "gerenciadordesenhas", "enpass", ["1password"] ]
+tags: [ "cofre", "gerenciadordesenhas", "enpass", "1password" ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 
