@@ -4,7 +4,7 @@ title: "De Facebook para Meta — 20 anos sem privacidade" #titulo para a barra 
 date: 2022-05-13 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "Destaques" #caminho da pasta
-tags: [ "facebook", "meta", "whatsapp", "instagram" ]
+tags: [ "destaques", "facebook", "meta", "whatsapp", "instagram" ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 
