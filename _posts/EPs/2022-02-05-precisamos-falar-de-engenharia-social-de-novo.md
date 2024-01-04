@@ -24,7 +24,7 @@ tags: [ "engenhariasocial", "golpe" ]
 - [Spod VPN](https://apps.apple.com/br/app/spod-vpn-filtro-web/id1466110599) (macOS)
 - [Site](https://spod.com.br) 
 - [Testar 30 dias grátis](https://podapps.net/spod)  
-- [Blog](https://podapps.net/spodblog) 
+
 
 `Links e Apps🔗 `
 
