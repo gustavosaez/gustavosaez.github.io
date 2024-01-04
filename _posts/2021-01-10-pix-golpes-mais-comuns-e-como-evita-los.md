@@ -2,8 +2,8 @@
 layout: post
 title: "PIX – Golpes mais comuns e como evitá-los." #titulo para a barra de enderecos
 date: 2021-01-10 23:52 -0300 #formato padrão data e hora
-categories: Episódios
-path: "EPs" #caminho da pasta
+categories: Post
+path: "_posts" #caminho da pasta
 tags: [ "pix", "golpe", "engenhariasocial" ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
