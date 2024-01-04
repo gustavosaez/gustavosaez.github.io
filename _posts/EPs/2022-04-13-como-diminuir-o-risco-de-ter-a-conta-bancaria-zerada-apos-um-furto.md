@@ -33,6 +33,5 @@ tags: [ "fintech" ]
 - [Folha de SP](https://www1.folha.uol.com.br/cotidiano/2022/04/pcc-controla-crime-de-pix-na-regiao-da-paulista-e-exporta-celular-furtado-apos-limpar-conta.shtml)
 - [Como adicionar uma senha no chip da operadora](https://professordoiphone.com.br/2021/06/22/como-adicionar-uma-senha-no-chip-da-operadora/)
 - [Minimalist pode ser o melhor cofre para iOS, iPadOS e macOS](https://gustavosaez.github.io/post/2022/02/19/minimalist-pode-ser-o-melhor-cofre-para-ios-ipados-e-macos.html)
-
-[Seja iPhone ou Android, veja como criminosos conseguem zerar sua conta bancária após um furto](https://podapps.net/2021/07/09/seja-iphone-ou-android-veja-como-criminosos-conseguem-zerar-sua-conta-bancaria-apos-um-furto/?origin_search=s)
+- [Seja iPhone ou Android, veja como criminosos conseguem zerar sua conta bancária após um furto](https://gustavosaez.github.io/post/2021/07/10/seja-iphone-ou-android-veja-como-criminosos-conseguem-zerar-sua-conta-bancaria-apos-um-furto.html)
 
