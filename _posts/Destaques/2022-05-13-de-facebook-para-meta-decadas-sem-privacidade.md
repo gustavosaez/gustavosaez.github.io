@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "De Facebook para Meta — 20 anos sem privacidade" #titulo para a barra de enderecos
+title: "De Facebook para Meta — Décadas sem privacidade" #titulo para a barra de enderecos
 date: 2022-05-13 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "Destaques" #caminho da pasta
@@ -8,7 +8,7 @@ tags: [ "destaques", "facebook", "meta", "whatsapp", "instagram" ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 
-# De Facebook para Meta — 20 anos sem privacidade
+# De Facebook para Meta — Décadas sem privacidade
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/podapps/id1434188907?i=1000562728871&theme=auto"></iframe>
 
