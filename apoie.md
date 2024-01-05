@@ -120,7 +120,7 @@ Se você considera que seu relacionamento com o PodApps chegou ao fim, você pod
 
 Já se você assinou um dos planos acima via Stripe, basta [clicar aqui](https://billing.stripe.com/p/login/5kAdRA4ta1Sqg9ifYY), inserir o e-mail que foi realizada a assinatura e cancelar ou, se não lembrar qual e-mail foi inserido é mandar um e-mail solicitando o cancelamento.
 
-Para facilitar, eu já criei um template de e-mail, basta [clicar aqui](mailto://sa.ez+cancelamentoassinaturastripe@icloud.com) e depois clicar em enviar (Não precisa de justificativa).
+Para facilitar, eu já criei um template de e-mail, basta [clicar aqui](mailto:cancelamento-assinatura-stripe@podapps.net?subject=Cancelamento%20de%20Assinatura%20Stripe&body=Ol%C3%A1%2C%20%0A%0AGostaria%20de%20cancelar%20minha%20assinatura%20do%20PodApps.) e depois clicar em enviar (Não precisa de justificativa).
 
 – Procure enviar do e-mail que realizou a assinatura ou, caso envie de um e-mail diferente, informe seu nome e sobrenome no e-mail para que eu possa realizar o cancelamento correto.
 
