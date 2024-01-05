@@ -16,9 +16,9 @@ Sabemos que as redes sociais não existem só para pessoas “do bem”, atravé
 
 Ao pensarmos em crianças, eu já direcionei algumas matérias ([entre outras](https://gustavosaez.github.io/tag/criancas/)):
 
-*   [Para crianças que usam a Internet, o conteúdo é mais importante do que o tempo. Veja como mantê-los seguros](https://podapps.net/2022/08/para-criancas-que-usam-a-internet-o-conteudo-e-mais-importante-do-que-o-tempo-veja-como-mante-los-seguros/)
-*   [Menores Seguros: Entendendo A Privacidade E A Segurança De Dados Na Era Digital](https://podapps.net/2023/04/menores-seguros-entendendo-a-privacidade-e-a-seguranca-de-dados-na-era-digital/)
-*   [O problema com os avós postando fotos de seus netos on-line](https://podapps.net/2022/08/o-problema-com-os-avos-postando-fotos-de-seus-netos-on-line/)
+*   [Para crianças que usam a Internet, o conteúdo é mais importante do que o tempo. Veja como mantê-los seguros](https://gustavosaez.github.io/post/2023/04/24/menores-seguros-entendendo-a-privacidade-e-a-seguranca-de-dados-na-era-digital.html)
+*   [Menores Seguros: Entendendo A Privacidade E A Segurança De Dados Na Era Digital](https://gustavosaez.github.io/post/2023/04/24/menores-seguros-entendendo-a-privacidade-e-a-seguranca-de-dados-na-era-digital.html)
+*   [O problema com os avós postando fotos de seus netos on-line](https://gustavosaez.github.io/post/2022/08/16/o-problema-com-os-avos-postando-fotos-de-seus-netos-on-line.html)
 
 Mas dessa vez, a BBC comprovou que a possibilidade vista acima já é real. 
 
