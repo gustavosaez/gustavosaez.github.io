@@ -4,7 +4,7 @@ title: "Evitando SPAM de SMS e Ligação" #titulo para a barra de enderecos
 date: 2019-08-23 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "spam" ]
+tags: [ "spam", "podcast", "episodios" ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 

@@ -4,7 +4,7 @@ title: "Bitcoin – criptoganhando 💸💰" #titulo para a barra de enderecos
 date: 2019-06-13 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "bitcoin" ]
+tags: [ "bitcoin", "podcast", "episodios" ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 

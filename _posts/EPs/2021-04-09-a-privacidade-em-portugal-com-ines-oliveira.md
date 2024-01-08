@@ -4,7 +4,7 @@ title: "A privacidade em Portugal (com Inês Oliveira)" #titulo para a barra de 
 date: 2021-04-09 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "telegram", "whatsapp" ]
+tags: [ "telegram", "whatsapp", "podcast", "episodios" ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 

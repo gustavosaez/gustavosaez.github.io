@@ -4,7 +4,7 @@ title: "Fitnismo com Camilla Ribeiro🏃‍♀️💨 🏃‍♂️💨 😪" #t
 date: 2019-04-05 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "fitness" ]
+tags: [ "fitness", "podcast", "episodios" ]
 ---
 
 # Fitnismo com Camilla Ribeiro🏃‍♀️💨 🏃‍♂️💨 😪

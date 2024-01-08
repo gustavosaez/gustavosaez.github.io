@@ -4,7 +4,7 @@ title: "Email, spam, phishing 📧💢🔕" #titulo para a barra de enderecos
 date: 2019-04-19 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "email", "spam", "phishing", "golpe" ]
+tags: [ "email", "spam", "phishing", "golpe", "podcast", "episodios" ]
 ---
 
 # Email, spam, phishing 📧💢🔕

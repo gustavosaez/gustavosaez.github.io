@@ -4,7 +4,7 @@ title: "Privacidade: No Android também tem!" #titulo para a barra de enderecos
 date: 2020-06-05 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "android" ]
+tags: [ "android", "podcast", "episodios" ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 

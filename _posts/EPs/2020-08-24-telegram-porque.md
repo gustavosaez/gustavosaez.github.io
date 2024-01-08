@@ -4,7 +4,7 @@ title: "Telegram, porquê?" #titulo para a barra de enderecos
 date: 2020-08-24 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "telegram" ]
+tags: [ "telegram", "podcast", "episodios" ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 

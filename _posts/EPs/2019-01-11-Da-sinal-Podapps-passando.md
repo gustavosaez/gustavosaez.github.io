@@ -4,7 +4,7 @@ title: "Dá sinal, o PodApps está passando 🤩" #titulo para a barra de endere
 date: 2019-01-11 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "recomeco" ]
+tags: [ "recomeco", "podcast", "episodios" ]
 ---
 
 # Dá sinal, o PodApps está passando 🤩!

@@ -4,7 +4,7 @@ title: "Entendendo a Cloud" #titulo para a barra de enderecos
 date: 2018-09-11 17:21:00 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "cloud" ]
+tags: [ "cloud", "podcast", "episodios" ]
 ---
 
 # Entendendo a Cloud

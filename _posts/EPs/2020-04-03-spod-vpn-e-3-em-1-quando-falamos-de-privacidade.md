@@ -4,7 +4,7 @@ title: "Spod VPN é 3 em 1 quando falamos de privacidade!🛡" #titulo para a ba
 date: 2020-04-03 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "spodvpn", "vpn", "patrocinado" ]
+tags: [ "spodvpn", "vpn", "patrocinado", "podcast", "episodios" ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 

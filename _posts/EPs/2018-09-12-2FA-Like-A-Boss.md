@@ -4,7 +4,7 @@ title: "2FA Like a Boss" #titulo para a barra de enderecos
 date: 2018-09-12 10:06:00 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "2fa" ]
+tags: [ "2fa", "podcast", "episodios" ]
 ---
 
 # 2FA Like a Boss

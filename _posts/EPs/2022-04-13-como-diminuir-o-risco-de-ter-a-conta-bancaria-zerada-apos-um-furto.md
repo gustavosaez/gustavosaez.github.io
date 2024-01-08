@@ -4,7 +4,7 @@ title: "Como diminuir o risco de ter a conta bancária zerada após um furto" #t
 date: 2022-04-13 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "fintech" ]
+tags: [ "fintech", "podcast", "episodios" ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 

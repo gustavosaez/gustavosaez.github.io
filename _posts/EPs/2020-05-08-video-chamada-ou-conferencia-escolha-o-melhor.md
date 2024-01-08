@@ -4,7 +4,7 @@ title: "Video-Chamada ou Conferência, escolha o melhor" #titulo para a barra de
 date: 2020-05-08 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "spodvpn", "vpn", "patrocinado" ]
+tags: [ "spodvpn", "vpn", "patrocinado", "podcast", "episodios" ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 

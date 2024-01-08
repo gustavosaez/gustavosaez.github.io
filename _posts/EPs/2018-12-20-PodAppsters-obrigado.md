@@ -4,7 +4,7 @@ title: "PodAppsters, Obrigado!" #titulo para a barra de enderecos
 date: 2018-12-20 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "promocao", "instagram", "apple", "suporte" ]
+tags: [ "promocao", "instagram", "apple", "suporte", "podcast", "episodios" ]
 ---
 
 # PodAppsters, Obrigado!

@@ -4,7 +4,7 @@ title: "Engenharia social não faz conta, mas pode pegar a sua conta" #titulo pa
 date: 2020-02-07 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "engenhariasocial" ]
+tags: [ "engenhariasocial", "podcast", "episodios" ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 

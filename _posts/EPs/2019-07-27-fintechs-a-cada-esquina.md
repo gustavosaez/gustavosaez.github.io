@@ -4,7 +4,7 @@ title: "Fintechs – a cada esquina 💸💰" #titulo para a barra de enderecos
 date: 2019-07-27 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "fintech" ]
+tags: [ "fintech", "podcast", "episodios" ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 

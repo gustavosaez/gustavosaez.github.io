@@ -4,7 +4,7 @@ title: "Mobilidade Urbana 🚖 🚎🚂🚊" #titulo para a barra de enderecos
 date: 2019-02-02 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "mobilidade" ]
+tags: [ "mobilidade", "podcast", "episodios" ]
 ---
 
 # Mobilidade Urbana 🚖 🚎🚂🚊!

@@ -4,7 +4,7 @@ title: "Backupeando por aí" #titulo para a barra de enderecos
 date: 2018-10-25 21:55 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "backup", "armazenamento" ]
+tags: [ "backup", "armazenamento", "podcast", "episodios" ]
 ---
 
 # Backupeando por aí

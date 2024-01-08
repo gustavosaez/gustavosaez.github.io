@@ -4,7 +4,7 @@ title: "Telegram bloqueado no Brasil, e agora?" #titulo para a barra de endereco
 date: 2022-03-18 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "telegram" ]
+tags: [ "telegram", "podcast", "episodios" ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 

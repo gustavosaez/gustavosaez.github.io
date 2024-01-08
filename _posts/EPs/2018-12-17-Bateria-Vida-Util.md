@@ -4,7 +4,7 @@ title: "Bateria e sua vida útil" #titulo para a barra de enderecos
 date: 2018-12-17 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "bateria" ]
+tags: [ "bateria", "podcast", "episodios" ]
 ---
 
 # Bateria e sua vida útil

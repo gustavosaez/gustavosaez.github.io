@@ -4,7 +4,7 @@ title: "O que é Podcast?" #titulo para a barra de enderecos
 date: 2018-09-29 13:27 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "podcast" ]
+tags: [ "podcast", "podcast", "episodios" ]
 ---
 
 # O que é Podcast?

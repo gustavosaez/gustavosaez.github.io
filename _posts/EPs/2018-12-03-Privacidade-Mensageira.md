@@ -4,7 +4,7 @@ title: "Privacidade Mensageira" #titulo para a barra de enderecos
 date: 2018-12-03 21:51 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "telegram", "signal", "whatsapp", "messenger", "threema" ]
+tags: [ "telegram", "signal", "whatsapp", "messenger", "threema", "podcast", "episodios" ]
 ---
 
 # Privacidade Mensageira

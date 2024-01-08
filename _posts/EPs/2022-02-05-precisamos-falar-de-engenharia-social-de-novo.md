@@ -4,7 +4,7 @@ title: "PRECISAMOS falar de Engenharia Social… de novo!" #titulo para a barra 
 date: 2022-02-05 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "engenhariasocial", "golpe" ]
+tags: [ "engenhariasocial", "golpe", "podcast", "episodios" ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 

@@ -4,7 +4,7 @@ title: "Apps Open-Source, código aberto, fechado, seguro ou não?" #titulo para
 date: 2021-02-06 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "opensource" ]
+tags: [ "opensource", "podcast", "episodios" ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 

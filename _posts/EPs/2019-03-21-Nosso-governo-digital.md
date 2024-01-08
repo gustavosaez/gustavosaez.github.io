@@ -4,7 +4,7 @@ title: "Nosso governo também é 📱" #titulo para a barra de enderecos
 date: 2019-03-21 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "governo", "digital" ]
+tags: [ "governo", "digital", "podcast", "episodios" ]
 ---
 
 # Nosso governo também é 📱

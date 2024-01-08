@@ -4,7 +4,7 @@ title: "Resumão da Privacidade👨🏻‍💻" #titulo para a barra de endereco
 date: 2019-03-07 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "adblocker", "vpn" ]
+tags: [ "adblocker", "vpn", "podcast", "episodios" ]
 ---
 
 # Resumão da Privacidade👨🏻‍💻

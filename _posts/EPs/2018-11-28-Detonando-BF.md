@@ -4,7 +4,7 @@ title: "Detonando na Black Friday" #titulo para a barra de enderecos
 date: 2018-11-28 21:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "blackfriday", "promocao" ]
+tags: [ "blackfriday", "promocao", "podcast", "episodios" ]
 ---
 
 # Detonando na Black Friday

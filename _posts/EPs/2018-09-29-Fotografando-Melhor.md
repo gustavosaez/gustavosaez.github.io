@@ -4,7 +4,7 @@ title: "Fotografando Melhor" #titulo para a barra de enderecos
 date: 2018-09-29 13:27 -0300 #formato padrão data e hora
 categories: Episódios
 path: "EPs" #caminho da pasta
-tags: [ "iPhone", "fotografia" ]
+tags: [ "iPhone", "fotografia", "podcast", "episodios" ]
 ---
 
 # Fotografando Melhor
