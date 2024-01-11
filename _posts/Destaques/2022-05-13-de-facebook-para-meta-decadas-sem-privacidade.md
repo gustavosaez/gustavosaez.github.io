@@ -384,23 +384,33 @@ A primeira mudança de política de privacidade da Meta (não mais como Facebook
 Estas alterações valem apenas para o Facebook, Messenger e Instagram. Isto mesmo, WhatsApp está fora dessas alterações. Ainda, segundo a Forbes, o movimento #DeleteFacebook tem ganhado ritmo. Em meio a muita publicidade ruim, muitas pessoas estão percebendo que a rede social coleta uma enorme quantidade de dados e rastreia você muito mais do que é confortável.
 
 Fonte: [Forbes](https://www.forbes.com/sites/kateoflahertyuk/2022/05/27/facebooks-new-privacy-policy-what-you-need-to-know/?sh=54898f58f84c)
+
 ___
+
 >Atualização 19 de JULHO de 2022 às 10h13
 
 Dada a insistência em violar o RGPD, o Facebook corre o risco de ser [banido em toda a União Europeia](https://podapps.net/2022/07/facebook-ameacado-com-proibicao-europeia-de-tratamento-de-dados/).
+
 ___
+
 >Atualização 23 de AGOSTO de 2022 às 17h10
 
 [Mais uma multa pra conta da Meta](https://economia.uol.com.br/noticias/estadao-conteudo/2022/08/23/facebook-e-multado-em-r-66-milhoes-pela-senacon-por-vazar-dados-de-usuarios.htm). O Facebook foi condenado pela Secretaria Nacional do Consumidor (Senacon) a pagar uma multa de R$ 6,6 milhões por ter vazado dados de usuários brasileiros. Esta multa é reflexo ainda do que aconteceu com o que lemos acima sobre o escândalo Cambridge Analytica.
+
 ___
+
 >Atualização 05 de SETEMBRO de 2022 às 17h02
 
 [Mais uma multa pra conta da Meta](https://podapps.net/2022/09/instagram-e-multado-em-405-milhoes-de-euros-por-infracoes-a-privacidade/). O Instagram foi multado pelo DPC irlandês a pagar uma multa de €405 milhões por violações à privacidade de crianças. Só do RGPD soma-se **€647 milhões.**
+
 ___
+
 >Atualização 17 de SETEMBRO de 2022 às 12H37
 
 [Mais uma multa pra conta da Meta](https://podapps.net/2022/09/comissao-de-protecao-de-informacoes-pessoais-da-coreia-do-sul-multa-meta-e-google-por-violacao-da-privacidade/). A comissão de proteção de dados da Coreia do Sul multa a Meta Plataforms em ~US$ 22 milhões por violar a privacidade dos usuários do país**.**
+
 ___
+
 >Atualização 22 de SETEMBRO de 2022 às 10H52
 
 É, quando o assunto é privacidade, não tem jeito, a Meta não tem esse compromisso com os usuários em hipótese alguma. Ainda não saiu uma nova condenação, mas há mais uma ação coletiva contra a Meta por burlar a **Transparência no Rastreamento em Apps** (_App Tracking Transparency_, ou ATT) para continuar ilegalmente rastreando usuários sem permissão. As [informações são do _Bloomberg Law_](https://news.bloomberglaw.com/privacy-and-data-security/meta-sued-for-skirting-apple-privacy-rules-to-snoop-on-users).
@@ -408,7 +418,9 @@ ___
 Desde o iOS 14, a ATT exige que os aplicativos para iOS somente rastreiem a atividade de usuários com a devida anuência.
 
 Vamos ver no que vai dar…
+
 ___
+
 >Atualização 12 de Janeiro de 2023 às 10H04
 
 O ano mal começou e a Meta já bateu a Amazon, sendo agora a campeã, a Top 1 em valores pagos por violações à privacidade.
@@ -418,7 +430,9 @@ No dia 04 de Janeiro, mais uma multa de **€390 milhões**. Ultrapassando a cas
 ![](/images/enforcement2.webp)
 
 Somente da Meta Plataforms
+
 ___
+
 >Atualização 22 de maio de 2023 às 12h01
 
 Como vimos acima, não faltava muito para que a Meta superasse a Amazon em valores de multas por violação de privacidade. Agora, não só superou em valores totais como superou em valores de aplicação única.
@@ -428,6 +442,7 @@ Quero dizer que, hoje, a Meta foi multada em 1.2 bilhão de Euros pelos mesmos m
 É possível afirmar que a Meta é o serviço que hoje mais viola dados pessoais e privacidade de seus usuários.
 
 Valor total em multas (até hoje): **€2.1 bilhões**
+
 ___
 
 Fontes: [9to5mac](https://9to5mac.com/2023/05/22/facebook-privacy-breach-fine/), [CNN](https://edition.cnn.com/2023/05/22/tech/meta-facebook-data-privacy-eu-fine/index.html), [Reuters](https://www.reuters.com/technology/meta-fined-13-bln-over-data-transfers-us-wsj-2023-05-22/), [Forbes](https://www.msn.com/en-us/money/companies/meta-fined-record-13-billion-for-violating-eu-privacy-rules/ar-AA1bvL67), [CBS](https://www.cbsnews.com/news/meta-european-union-record-fine-personal-data/).
