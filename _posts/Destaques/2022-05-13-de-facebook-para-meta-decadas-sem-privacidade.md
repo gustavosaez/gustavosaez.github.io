@@ -367,6 +367,7 @@ Agora que você já sabe tudo isso, continuar usando Facebook, Instagram e Whats
 Alternativas nós temos, porém deixo um site me que você mesmo as veja: [https://nomorefacebook.xyz/](https://nomorefacebook.xyz/)
 
 E embora este não seja o tópico ideal, também deixo alternativas ao Google: [https://nomoregoogle.com/](https://nomoregoogle.com/)
+
 ___
 
 >Atualização 20 de Maio de 2022 às 14h01
