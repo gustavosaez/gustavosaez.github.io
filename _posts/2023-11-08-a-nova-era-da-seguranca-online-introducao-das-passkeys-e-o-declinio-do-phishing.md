@@ -19,7 +19,7 @@ As passkeys funcionam de maneira semelhante aos tradicionais métodos de autenti
 
 ## Suporte
 Para habilitar o uso de passkeys, é necessário que o serviço tenha suporte e que você tenha um dispositivo que possua algum tipo de autenticação biométrica, seja Facial, Digital ou íris.
-Atualmente, diversos aplicativos e dispositivos populares já oferecem suporte a essa funcionalidade assim como navegadores da web, aplicativos de [autenticação de dois fatores (2FA)]([/_posts/EPs/2018-09-12-2FA-Like-A-Boss.md](https://gustavosaez.github.io/episódios/2018/09/12/2FA-Like-A-Boss.html)) e cofres como [1Password](https://gustavosaez.github.io/post/2022/08/17/configurar-um-cofre-nao-e-tao-dificil-quanto-voce-pensa), Bitwarden e [Enpass](https://gustavosaez.github.io/post/2022/01/29/enpass-um-gerenciador-de-senhas-robusto-e-gratuito.html).
+Atualmente, diversos aplicativos e dispositivos populares já oferecem suporte a essa funcionalidade assim como navegadores da web, aplicativos de [autenticação de dois fatores (2FA)](https://gustavosaez.github.io/episódios/2018/09/12/2FA-Like-A-Boss.html) e cofres como [1Password](https://gustavosaez.github.io/post/2022/08/17/configurar-um-cofre-nao-e-tao-dificil-quanto-voce-pensa), Bitwarden e [Enpass](https://gustavosaez.github.io/post/2022/01/29/enpass-um-gerenciador-de-senhas-robusto-e-gratuito.html).
 
 Você pode descobrir se um serviço específico suporta passkeys acessando o site https://passkeys.directory. Essa é uma ferramenta útil que lista os serviços e dispositivos compatíveis com passkeys, permitindo que você verifique facilmente se o serviço desejado está na lista.
 
