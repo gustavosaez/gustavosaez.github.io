@@ -39,7 +39,7 @@ O Phishing é a prática de golpistas em criar sites e/ou e-mails falsos que ind
 
 Pode ser uma promoção falsa que roubará seus dados de cartão, pode ser um e-mail de banco que roubará seus dados bancários, entre outras possibilidades.
 
-Quem nunca recebeu um SMS com uma proposta de emprego de 4000-5000 por dia e um link para cadastro? Incrível né?
+Quem nunca recebeu um SMS com uma proposta de emprego de quatro ou cinco mil reais por dia e um link para cadastro? Incrível né?
 
 De todo modo as passkeys acabarão com isso e se você utilizá-las nunca mais um golpe phishing te pegará. Entenda como funciona.
 
@@ -52,4 +52,4 @@ Quando você tenta fazer login usando a Passkey, o TikTok irá consultar o token
 É aí que o Phishing morre. Entendeu que esse token é único entre você e o site que deseja acessar? Se, por acaso, você clicar em um link falso do TikTok, este site falso não terá o token para validação, então por mais que tente usar a passkey, não conseguirá acesso, logo, o golpe não é bem executado e se encerra aí.
 
 ## O que achou?
-E aí, como está o uso das passkeys por aí? Já habilitou? Não conhecia? Ficou confuso? Me conta: https://gustavosaez.com.br
+E aí, como está o uso das passkeys por aí? Já habilitou? Não conhecia? Ficou confuso? Me conta: [https://gustavosaez.com.br](https://gustavosaez.com.br)
