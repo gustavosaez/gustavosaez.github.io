@@ -9,4 +9,6 @@ tags: [ "destaques" ]
 
 # Palestra sobre Engenharia Social
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8ujda9q65MI?si=g5rYVObdvo0MUC1-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/8ujda9q65MI?si=g5rYVObdvo0MUC1-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
