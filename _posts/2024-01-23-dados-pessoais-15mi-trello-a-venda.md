@@ -35,6 +35,7 @@ Esses bancos de dados roubados são frequentemente usados para ataques de phishi
 A própria Trello ainda não avisou os clientes sobre o ataque até o momento.
 
 A empresa de software australiana Atlassian adquiriu o Trello em 2017 por US$ 425 milhões. O serviço é particularmente popular na indústria de tecnologia, onde é usado para acompanhar o progresso dos projetos de TI. O serviço se destacou durante a pandemia, quando as equipes de repente se viram dispersas e fora de contato direto.
+
 ___
 
 
