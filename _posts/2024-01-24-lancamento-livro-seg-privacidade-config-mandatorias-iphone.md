@@ -47,7 +47,7 @@ O livro está disponível para compra na Apple Book Store e na Amazon, compre j�
     .botaoapple {
       background-color: white; 
       color: #F47619; 
-      border: 2px solid #F47619;
+      border: 2px solid #000000;
       border-radius: 100px;
     } 
     .botaoapple:hover {
