@@ -47,7 +47,7 @@ O livro está disponível para compra na Apple Book Store e na Amazon, compre j�
     .botaoapple {
       background-color: white; 
       color: #F47619; 
-      border: 2px solid #000000;
+      border: 2px solid #F47619;
       border-radius: 100px;
     } 
     .botaoapple:hover {
@@ -68,8 +68,8 @@ O livro está disponível para compra na Apple Book Store e na Amazon, compre j�
 </style>
 <div>
     <center>
-    <button class="button botaoapple" target="_blank" onclick="window.location.href='https://books.apple.com/us/author/gustavo-saez/id1705459518';">Apple Book Store</button>
-    <button class="button botaoamazon" target="_blank" onclick="window.location.href='https://www.amazon.com.br/dp/B0CT8Y39KZ';">Amazon (Kindle)</button>
+    <button class="botaoapple" target="_blank" onclick="window.location.href='https://books.apple.com/us/author/gustavo-saez/id1705459518';">Apple Book Store</button>
+    <button class="botaoamazon" target="_blank" onclick="window.location.href='https://www.amazon.com.br/dp/B0CT8Y39KZ';">Amazon (Kindle)</button>
     </center>
 </div>
 <BR>
