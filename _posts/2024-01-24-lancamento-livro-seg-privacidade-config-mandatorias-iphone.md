@@ -44,32 +44,32 @@ O livro está disponível para compra na Apple Book Store e na Amazon, compre j�
       cursor: pointer;
     }
     /*Botão Apple*/
-    .button2 {
+    .button10 {
       background-color: white; 
       color: #F47619; 
       border: 2px solid #F47619;
       border-radius: 100px;
     } 
-    .button2:hover {
+    .button10:hover {
       background-color: #F47619;
       color: white;
     } 
     /*Botão Amazon*/    
-    .button3 {
+    .button11 {
       background-color: white; 
       color: #000000; 
       border: 2px solid #000000;
       border-radius: 100px;
     }    
-    .button3:hover {
+    .button11:hover {
       background-color: #000000;
       color: white;
     }
 </style>
 <div>
-<center>
-    <button class="button button2" target="_blank" onclick="window.location.href='https://books.apple.com/us/author/gustavo-saez/id1705459518';">Apple Book Store</button>
-    <button class="button button3" target="_blank" onclick="window.location.href='https://www.amazon.com.br/dp/B0CT8Y39KZ';">Amazon (Kindle)</button>
+    <center>
+    <button class="button button10" target="_blank" onclick="window.location.href='https://books.apple.com/us/author/gustavo-saez/id1705459518';">Apple Book Store</button>
+    <button class="button button11" target="_blank" onclick="window.location.href='https://www.amazon.com.br/dp/B0CT8Y39KZ';">Amazon (Kindle)</button>
     </center>
 </div>
 <BR>
