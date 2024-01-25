@@ -9,11 +9,13 @@ O **PodApps** foi o meio para o começo da sua vida com mais controle de seus da
 
 Ao longo dos anos, fui aprimorando os recursos para entregar melhor qualidade e conteúdo para você e, claro, isso tudo teve um custo. O projeto existiu da melhor forma graças aos apoiadores mensais que ajudaram na estrutura e sustentabilidade.
 
-Conforme comentado no primeiro post de 2024, o apoio, aos poucos foi se encerrando, isso levou ao fim do projeto PodApps tornando inviável a sustentação de um domínio e hospedagem.
+Conforme comentado no [primeiro post de 2024](https://gustavosaez.github.io/destaques/2023/12/28/Hello-2024.html), o apoio financeiro, aos poucos foi se encerrando, isso levou ao fim do projeto PodApps tornando inviável a sustentação de um domínio e hospedagem. Afinal tanto o PodApps quanto este blog é conteúdo livre e acessível sem anúncios, sem rastreadores e sem analytics, apenas, conteúdo e conhecimento entregue sem nenhuma contra-partida (nem que seja velada).
 
-Hoje, neste blog, não há custo, tudo é feito de forma manual e orgânica, além de ser mais rudimentar e criando páginas e posts sem o famoso "arrasta e solta", blog no modo raiz, rs.
+>Apoiar o blog não é, nunca foi e nunca será obrigatório.
 
-De todo modo, o conteúdo, o conhecimento que continuo adquirindo e compartilhando com vocês gratuitamente, pode ser apoiado, digamos que o projeto continua, sem custo, sem fins lucrativos e com outra "cara".
+Hoje, por enquanto, não há custo algum para mantê-lo operacional, tudo é feito de forma manual e orgânica.
+
+De todo modo, o conteúdo, o conhecimento que continuo adquirindo e compartilhando com vocês gratuitamente ainda pode ser apoiado. O projeto continua, sem custo, sem fins lucrativos e com outra "cara".
 
 Se você já escutou, leu ou obteve ajuda com o conteúdo, considere apoiar e para isto, há vários valores e meios para fazê-lo.
 
