@@ -57,12 +57,12 @@ O livro está disponível para compra na Apple Book Store e na Amazon, compre j�
     /*Botão Amazon*/    
     .button3 {
       background-color: white; 
-      color: #000; 
-      border: 2px solid #000;
+      color: #000000; 
+      border: 2px solid #000000;
       border-radius: 100px;
     }    
     .button3:hover {
-      background-color: #000;
+      background-color: #000000;
       color: white;
     }
 </style>
