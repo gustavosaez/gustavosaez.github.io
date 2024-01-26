@@ -73,7 +73,7 @@ O livro está disponível para compra na Apple Book Store e na Amazon, compre j�
 <div>
     <center>
     <button class="botaoapple" target="_blank" onclick="window.location.href='https://books.apple.com/us/author/gustavo-saez/id1705459518';">Apple Book Store</button>
-    <button class="botaoamazon" target="_blank" onclick="window.location.href='https://www.amazon.com.br/dp/B0CT8Y39KZ';">Amazon (Kindle)</button>
+    <button class="botaoamazon" target="_blank" onclick="window.location.href='https://www.amazon.com.br/stores/author/B0CTD21GCT/allbooks';">Amazon (Kindle)</button>
     </center>
 </div>
 <BR>
