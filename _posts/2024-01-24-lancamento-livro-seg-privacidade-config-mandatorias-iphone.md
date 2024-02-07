@@ -8,7 +8,7 @@ tags: [ "livro" ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 
-# Lançamento do meu segundo livro
+# 📚 Lançamento do meu segundo livro
 ### Privacidade e Segurança: Configurações Mandatórias para seu iPhone
 ![](/images/meu-livro-apple-books.png)
 
