@@ -21,7 +21,7 @@ Se você já escutou, leu ou obteve ajuda com o conteúdo, considere apoiar e pa
 
 
 <html>
-<style>
+  <style>
     .button {
       border: none;
       color: white;
@@ -89,15 +89,15 @@ Se você já escutou, leu ou obteve ajuda com o conteúdo, considere apoiar e pa
       background-color: #C5504A;
       color: white;
     }
-</style>
+  </style>
 
-<div>
+  <div>
     <button class="button button2" target="_blank" onclick="window.location.href='https://paypal.me/gustavosaez';">Paypal</button>
     <button class="button button3" target="_blank" onclick="window.location.href='https://donate.stripe.com/bIYg0B4JL5xI0Vy4gl';">Stripe</button>
     <button class="button button4" target="_blank" onclick="window.location.href='https://nubank.com.br/pagar/3o2u3/hIoRzYDcO1';">PIX</button>
     <button class="button button5" target="_blank" onclick="window.location.href='link.mercadopago.com.br/gustavosaez';">Mercado Pago</button>
-</div>
-<BR>
+  </div>
+  <BR>
 </html>
 
 Você também tem a opção apoiar com recorrência mensal via `Apoia.se` ou `Stripe` (_melhor opção_)
