@@ -68,12 +68,31 @@ O livro está disponível para compra na Apple Book Store e na Amazon, compre j�
     .botaoamazon:hover {
       background-color: #000000;
       color: white;
+    }/*Botão XGrow*/    
+    .botaoxgrow {
+      background-color: white; 
+      color: #2A2E39; 
+      border: 2px solid #2A2E39;
+      border-radius: 100px;
+      padding: 5px 22px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 14px;
+      margin: 2px 2px;
+      transition-duration: 0.4s;
+      cursor: pointer;
+    }    
+    .botaoxgrow:hover {
+      background-color: #000;
+      color: #B8D419;
     }
 </style>
 <div>
     <center>
     <button class="botaoapple" target="_blank" onclick="window.location.href='https://books.apple.com/us/author/gustavo-saez/id1705459518';">Apple Book Store</button>
     <button class="botaoamazon" target="_blank" onclick="window.location.href='https://www.amazon.com.br/stores/author/B0CTD21GCT/allbooks';">Amazon (Kindle)</button>
+    <button class="botaoxgrow" target="_blank" onclick="window.location.href='https://checkout4.xgrow.com/pt/b4742f14-56db-4034-bb2e-56ea79a37b43/Mzk5NTc=';">Comprar PDF</button>
     </center>
 </div>
 <BR>
