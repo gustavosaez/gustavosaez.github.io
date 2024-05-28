@@ -51,7 +51,7 @@ O livro está disponível para compra na Apple Book Store e na Amazon, adquira j
       background-color: #000000;
       color: white;
     }
-    /*Botão Amazon*/    
+    /*Botão XGrow*/    
     .botaoxgrow {
       background-color: white; 
       color: #2A2E39; 
