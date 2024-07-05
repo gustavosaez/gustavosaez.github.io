@@ -1,48 +1,44 @@
 ---
 layout: post
-title: "Seu gerenciador de senhas móveis pode estar expondo suas credenciais" #titulo para a barra de enderecos
-date: 2023-12-05 09:41 -0300 #formato padrão data e hora
+title: "Milhares de contas AnyDesk oferecidas para venda após o hack" #titulo para a barra de enderecos
+date: 2024-02-05 09:41 -0300 #formato padrão data e hora
 categories: Post
 path: "_posts" #caminho da pasta
-tags: [ "1password", "enpass", "gerenciadordesenhas", "passkey", "lastpass" ]
+tags: [ "seguranca" ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 
-# 7 dicas de privacidade para proteger seus alto-falantes inteligentes e assistentes virtuais
+# Milhares de contas AnyDesk oferecidas para venda após o hack
+![](/images/anydesk.png)
 
-Vários gerenciadores de senhas móveis populares estão inadvertidamente derramando credenciais do usuário devido a uma vulnerabilidade na funcionalidade de preenchimento automático dos aplicativos Android.
+Os atores de ameaças estão vendendo mais de 18.317 credenciais AnyDesk no fórum de hackers “Exploit[.]in” por US$ 15.000, um dia depois que o criador da popular ferramenta de acesso remoto revelou uma violação catastrófica de dados.
 
-A vulnerabilidade, apelidada de "AutoSpill", pode expor as credenciais salvas dos usuários dos gerentes de senhas móveis, contornando o mecanismo seguro de preenchimento automático do Android, de acordo com pesquisadores universitários do IIIT Hyderabad, que descobriram a vulnerabilidade e apresentaram suas pesquisas na Black Hat Europe esta semana. 
+AnyDesk é um aplicativo de desktop remoto que permite que os usuários acessem e controlem computadores de qualquer lugar do mundo. É conhecido por sua velocidade e design leve, tornando-o uma escolha popular para profissionais de TI, empresas e usuários individuais que precisam de acesso remoto a seus computadores ou desejam fornecer suporte remoto a outras pessoas.
 
-Os pesquisadores, Ankit Gangwal, Shubham Singh e Abhijeet Srivastava, descobriram que quando um aplicativo Android carrega uma página de login no WebView, os gerentes de senhas podem ficar “desorientados” sobre onde devem segmentar as informações de login do usuário e, em vez disso, expor suas credenciais aos campos nativos do aplicativo subjacente, disseram eles. 
+Como visto anteriormente em casos como o ladrão Mitsu e o malware HotRAT, o AnyDesk é um alvo lucrativo e uma isca eficaz para os cibercriminosos, graças à popularidade do software e ao uso generalizado em ambientes de alto valor.
 
-Isso ocorre porque o WebView, o mecanismo pré-instalado do Google, permite que os desenvolvedores exibam conteúdo da web no aplicativo sem iniciar um navegador da web, e uma solicitação de preenchimento automático é gerada.
+Em 2 de fevereiro de 2024, a AnyDesk anunciou que sofreu um ataque cibernético que comprometeu seus sistemas de produção. A empresa colaborou com o CrowdStrike para conter a ameaça e, mais tarde, tomou extensas medidas de segurança, incluindo a revogação e substituição de certificados. O fornecedor de software também aconselhou os usuários a alterar suas senhas imediatamente, embora tenha assegurado que nenhum dispositivo de usuário havia sido afetado pelo incidente.
 
-“Digamos que você esteja tentando fazer login no seu aplicativo de música favorito no seu dispositivo móvel e use a opção de 'login via Google ou Facebook'. O aplicativo de música abrirá uma página de login do Google ou do Facebook dentro de si mesmo através do WebView”, explicou Gangwal à TechCrunch antes de sua apresentação do Black Hat na quarta-feira.
+Pesquisadores da Resecurity que descobriram a venda on-line de credenciais AnyDesk relatam que a situação pode ser mais complicada do que o fornecedor se importa em admitir. Um usuário chamado “Jobaaaaa” está vendendo um grande conjunto de credenciais de conta AnyDesk em um fórum de hackers, que os atores de ameaças poderiam aproveitar para estabelecer acesso remoto a sistemas de computador sensíveis ou realizar phishing lateral de dentro de redes violadas.
 
-“Quando o gerenciador de senhas é chamado para preencher automaticamente as credenciais, idealmente, ele deve preencher automaticamente apenas na página do Google ou do Facebook que foi carregada. Mas descobrimos que a operação de preenchimento automático poderia expor acidentalmente as credenciais para o aplicativo base.”
+![](/images/anydesk2.png)
 
-Gangwal observa que as ramificações dessa vulnerabilidade, particularmente em um cenário em que o aplicativo base é malicioso, são significativas. Ele acrescentou: “Mesmo sem phishing, qualquer aplicativo malicioso que peça que você faça login por outro site, como o Google ou o Facebook, pode acessar automaticamente informações confidenciais.”
+Além disso, ao acessar as contas AnyDesk de outras pessoas, os compradores deste conjunto podem acessar sua chave de licença, detalhes de conexão, informações de sessão, endereço de e-mail, status da conta e outros dados valiosos que podem ser usados para engenharia social eficaz e golpes. De acordo com as capturas de tela do vendedor, algumas das contas afetadas foram acessadas em 3 de fevereiro, então a atividade não autorizada ocorreu após a divulgação da violação de dados.
 
-Os pesquisadores testaram a vulnerabilidade AutoSpill usando alguns dos gerenciadores de senhas mais populares, incluindo 1Password, LastPass, Keeper e Enpass, em dispositivos Android novos e atualizados. Eles descobriram que a maioria dos aplicativos era vulnerável ao vazamento de credenciais, mesmo com a injeção de JavaScript desativada. Quando a injeção de JavaScript foi ativada, todos os gerenciadores de senhas estavam suscetíveis à sua vulnerabilidade AutoSpill.
-Gangwal diz que alertou o Google e os gerentes de senhas afetados sobre a falha.
+![](/images/anydesk3.png)
 
-O Google não comentou quando chegou antes da publicação, mas mais tarde disse ao TechCrunch que a empresa recomenda que os gerentes de senhas de terceiros “sejam sensíveis quanto a onde as senhas estão sendo inseridas, e temos as melhores práticas do WebView que recomendamos que todos os gerentes de senhas implementem”, disse o porta-voz do Google, Ed Fernandez.
+A Resecurity validou partes dos dados encontrados nas amostras compartilhadas gratuitamente pelo Jobaaaa e confirma que é autêntico, pertencente a pessoas que estão usando o AnyDesk ou o usaram em algum momento no passado.
 
-“O Android fornece aos gerenciadores de senhas o contexto necessário para distinguir entre visualizações nativas e WebViews, bem como se o WebView que está sendo carregado não está relacionado ao aplicativo de hospedagem. Por exemplo, ao usar o Gerenciador de Senhas do Google para preenchimento automático no Android, os usuários são avisados se estiverem inserindo uma senha para um domínio que o Google determina que pode não ser de propriedade do aplicativo de hospedagem, e a senha é preenchida apenas no campo apropriado. O Google implementa proteções do lado do servidor para logins via WebView”, observou o porta-voz do Google.
+Sobre o assunto de como essas credenciais foram adquiridas, a Resecurity não pode tirar conclusões seguras, dadas as evidências disponíveis.
 
-O diretor de tecnologia da 1Password, Pedro Canahuati, disse à TechCrunch que a empresa identificou e está trabalhando em uma correção para o AutoSpill. “Embora a correção fortaleça ainda mais nossa postura de segurança, a função de preenchimento automático do 1Password foi projetada para exigir que o usuário tome medidas explícitas”, disse Canahuati. “A atualização fornecerá proteção adicional, impedindo que os campos nativos sejam preenchidos com credenciais destinadas apenas ao WebView do Android.”
+“As fontes e métodos para adquirir dados dessa natureza podem variar dependendo das Táticas, Técnicas e Procedimentos (TTPs) exclusivos dos atores de ameaça”, [diz o relatório de Resegurança](https://www.resecurity.com/blog/article/following-the-anydesk-incident-customer-credentials-leaked-and-published-for-sale-on-the-dark-web#09).
 
-O CTO da Keeper, Craig Lurey, disse em comentários compartilhados com a TechCrunch que a empresa foi notificada sobre uma potencial vulnerabilidade, mas não disse se havia feito alguma correção. “Solacitamos um vídeo do pesquisador para demonstrar o problema relatado. 
+“Embora se acredite amplamente que esse vazamento de credenciais seja o resultado de infecções por infostealers, essa incerteza, no entanto, cria uma nova área de preocupação.”
 
-Com base em nossa análise, determinamos que o pesquisador primeiro instalou um aplicativo malicioso e, posteriormente, aceitou um aviso do Keeper para forçar a associação do aplicativo malicioso a um registro de senha do Keeper”, disse Lurey.
+Se o conjunto de dados, que ainda não foi confirmado como autêntico, for real, o AnyDesk deve se mover rapidamente para impor uma redefinição de senha global, apesar da interrupção operacional que isso pode causar. Além disso, implementar uma etapa obrigatória de autenticação de dois fatores (2FA) para todas as contas AnyDesk seria uma medida de segurança muito eficaz para evitar esses sequestros.
 
-O Keeper disse que "salva em vigor para proteger os usuários contra o preenchimento automático de credenciais em um aplicativo não confiável ou em um site que não foi explicitamente autorizado pelo usuário" e recomendou que o pesquisador enviasse seu relatório ao Google "já que está especificamente relacionado à plataforma Android".
+![](/images/anydesk4.png)
 
-A Enpass não respondeu às perguntas do TechCrunch. Alex Cox, diretor da equipe de inteligência, mitigação e escalonamento de ameaças do LastPass, disse à TechCrunch que, antes de ser informado das descobertas dos pesquisadores, o LastPass já tinha uma mitigação em vigor por meio de um aviso pop-up no produto quando o aplicativo detectou uma tentativa de alavancar o exploit. 
+Infelizmente, a AnyDesk levou [vários dias](https://twitter.com/anydesk/status/1752422327109746944) para admitir publicamente o incidente de segurança cibernética, e o fornecedor de software ainda não compartilhou todos os detalhes sobre ele. Isso deixou muitos usuários no escuro sobre o que aconteceu, e uma porcentagem notável deles ainda precisa tomar as medidas apropriadas para proteger suas contas (redefinição de senha + MFA).
 
-“Depois de analisar as descobertas, adicionamos palavras mais informativas no pop-up”, disse Cox.
-Gangwal diz ao TechCrunch que os pesquisadores agora estão explorando a possibilidade de um invasor potencialmente extrair credenciais do aplicativo para o WebView. A equipe também está investigando se a vulnerabilidade pode ser replicada no iOS.
-
-___
-Fonte: [Tech Crunch](https://techcrunch.com/2023/12/06/your-mobile-password-manager-might-be-exposing-your-credentials/)
+A Resecurity recomenda que os administradores do AnyDesk redefinam todas as senhas do usuário, ativem o 2FA, monitorem os registros de atividades e configurem listas brancas que permitam apenas conexões com IDs de usuários e namespaces confiáveis.
