@@ -1,14 +1,10 @@
 ---
-layout: default
+layout: archive
 ---
 
-<article class="post">
-    <header class="post-header">
-        <h1 class="post-title">
-            {{ page.title | escape }}
-        </h1>
-    </header>
-    <div class="post-content">
-        {{ content }}
-    </div>
-</article>
+{{ content }}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include posts-tag.html taxonomy=page.taxonomy type=entries_layout %}
+</div>
