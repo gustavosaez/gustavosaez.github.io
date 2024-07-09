@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "📚 Livros"
+    url: https://gustavosaez.com.br/livros
+  - title: "🤝 Apoie"
+    url: https://gustavosaez.github.io/apoie.html
+  - title: "🚧 Serviços"
+    url: https://gustavosaez.github.io/servicos.html
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
-  #   url: /sitemap/
+  #   url: /sitemap/  
