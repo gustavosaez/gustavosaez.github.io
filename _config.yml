@@ -15,13 +15,13 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "pt-BR"
+locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Blog | Gustavo Saez"
+title                    : "Site Title"
 title_separator          : "-"
-subtitle                 : "site tagline that appears below site title in masthead"
-name                     : "Gustavo Saez"
-description              : "Tudo sobre privacidade, proteção de dados e segurança."
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "Your Name"
+description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,18 +113,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gustavo Saez"
-  avatar           : "https://gustavosaez.com.br/images/avatar.jpeg"
-  bio              : "Especialista em Engenharia Social • Privacidade e Proteção de Dados • Consultor Cyber • Former Dev • Podcaster • Colunista • Escritor • Palestrante • Blogueiro • Praticante e admirador da filosofia Lean • Apple Teacher Certified • Fundador do PodApps •  Thinking Different"
-  location         : "São Paulo, SP"
+  name             : "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Eu, e todos os meus links!"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://gustavosaez.com.br"
+      # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
