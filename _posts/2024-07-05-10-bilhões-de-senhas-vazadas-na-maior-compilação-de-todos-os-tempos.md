@@ -26,7 +26,7 @@ Os ataques de preenchimento de credenciais podem ser severamente prejudiciais pa
 
 ![](/images/rockyou2024-post.png)
 
-## Não é o primeiro rodeio
+## Não é a primeira vez
 
 A coletânea RockYou2024 não caiu apenas do céu. Há três anos, o Cybernews publicou uma matéria sobre a compilação de senhas RockYou2021, a maior da época, com 8,4 bilhões de senhas de texto simples.
 
