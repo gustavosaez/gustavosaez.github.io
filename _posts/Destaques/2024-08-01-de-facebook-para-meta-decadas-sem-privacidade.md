@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "De Facebook para Meta — Décadas sem privacidade" #titulo para a barra de enderecos
+title: "De Facebook para Meta — Décadas sem privacidade [Atualizado 10x]" #titulo para a barra de enderecos
 date: 2022-05-13 23:52 -0300 #formato padrão data e hora
 categories: Episódios
 path: "Destaques" #caminho da pasta
@@ -16,7 +16,7 @@ tags: [ "destaques", "facebook", "meta", "whatsapp", "instagram" ]
 (⭐️⭐️⭐️⭐️⭐️)
 
 
-# De Facebook para Meta — 20 anos sem privacidade
+# De Facebook para Meta — 20 anos sem privacidade [Atualizado 10x]
 _Este post é o agrupamento de anos de polêmicas e escândalos do Facebook, agora Meta, que corroboram a minha incansável luta pela conscientização das pessoas. Se todos tiverem consciência do quão ruim é entregar seus dados à Meta, ela pediria desculpas e fecharia as portas._
 
 Este é um conteúdo que venho procrastinando há pelo menos 2 anos, pois sei que virão mais escândalos de privacidade, porém, está na hora de informá-los e depois eu é só atualizar esta matéria.
@@ -447,5 +447,27 @@ Valor total em multas (até hoje): **€2.1 bilhões**
 ___
 
 Fontes: [9to5mac](https://9to5mac.com/2023/05/22/facebook-privacy-breach-fine/), [CNN](https://edition.cnn.com/2023/05/22/tech/meta-facebook-data-privacy-eu-fine/index.html), [Reuters](https://www.reuters.com/technology/meta-fined-13-bln-over-data-transfers-us-wsj-2023-05-22/), [Forbes](https://www.msn.com/en-us/money/companies/meta-fined-record-13-billion-for-violating-eu-privacy-rules/ar-AA1bvL67), [CBS](https://www.cbsnews.com/news/meta-european-union-record-fine-personal-data/).
+
+___
+
+>Atualização 01 de agosto de 2024 às 09h41
+
+A Meta, empresa controladora do Facebook e do Instagram, concordou com um acordo recorde de US$ 1,4 bilhão com o Texas na terça-feira, sob alegações de que havia coletado ilegalmente informações de reconhecimento facial de milhões de usuários, violando a lei estadual.
+
+A Meta violou as leis de privacidade do estado do Texas ao marcar automaticamente os rostos dos usuários em seu site, de acordo com uma ação movida em 2022. O acordo é o maior acordo de privacidade de um estado dos EUA, disse o procurador-geral do Texas, Ken Paxton.
+
+"Este acordo histórico demonstra nosso compromisso de enfrentar as maiores empresas de tecnologia do mundo e responsabilizá-las por infringir a lei e violar os direitos de privacidade dos texanos", disse Paxton em um comunicado. O processo cobriu a coleta de dados de milhões de residentes do estado. "Qualquer abuso dos dados confidenciais dos texanos será recebido com toda a força da lei", acrescentou.
+
+A Meta e outros gigantes da tecnologia estão sob intenso escrutínio de reguladores e consumidores nos últimos anos por abusos de privacidade. Os estados tornaram-se cada vez mais agressivos na adoção e aplicação de leis de privacidade e outras leis de tecnologia, principalmente na ausência de uma lei federal de privacidade. Texas, Illinois e Washington têm leis de privacidade biométrica que restringem a coleta de dados faciais, de voz e outros dados biométricos.
+
+A Meta pagou anteriormente a Illinois US$ 550 milhões em 2020 para resolver um processo semelhante sobre reconhecimento facial. A empresa está enfrentando mais de uma dúzia de ações judiciais dos procuradores-gerais de 45 estados e do Distrito de Columbia acusando a Meta de enredar injustamente adolescentes e crianças no Instagram e no Facebook, enquanto engana o público sobre os perigos.
+
+A lei do Texas, chamada Captura ou Uso de Identificador Biométrico, exige que as empresas peçam permissão antes de usar recursos como tecnologias de reconhecimento facial ou de voz. A lei permite que o estado imponha danos de até US $ 25.000 por violação.
+
+Valor total em multas (até hoje): **€3.4 bilhões**
+
+Fonte: [NY Times](https://www.nytimes.com/2024/07/30/technology/meta-texas-privacy-settlement.html)
+
+___
 
 _Um agradecimento especial aos jornalistas que viabilizaram conteúdos ricos e isentos ao longo desses anos para que eu conseguisse agregá-los aqui. Resumidamente às mídias: Tecnoblog (em sua maioria), Canaltech, Olhar Digital, MacMagazine, The Hack, Genbeta, Tech Crunch, The Markup, Vice, The Guardian, Reuters, Tecmundo, Forbes, The Telegraph._
