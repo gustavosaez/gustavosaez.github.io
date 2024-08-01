@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "De Facebook para Meta — Décadas sem privacidade [Atualizado 10x]" #titulo para a barra de enderecos
-date: 2024-08-01 23:52 -0300 #formato padrão data e hora
+date: 2024-08-01 09:41 -0300 #formato padrão data e hora
 categories: Episódios
 path: "Destaques" #caminho da pasta
 tags: [ "destaques", "facebook", "meta", "whatsapp", "instagram" ]
