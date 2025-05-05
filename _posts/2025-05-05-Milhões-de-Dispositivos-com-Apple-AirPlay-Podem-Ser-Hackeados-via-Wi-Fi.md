@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Milhões de Dispositivos com Apple AirPlay Podem Ser Hackeados via Wi-Fi" #titulo para a barra de enderecos
+title: "🚨 Milhões de Dispositivos Compatíveis Com Apple AirPlay Podem Ser Hackeados via Wi-Fi!" #titulo para a barra de enderecos
 date: 2025-05-05 09:41 -0300 #formato padrão data e hora
 categories: Post
 path: "_posts" #caminho da pasta
-tags: [ "seguranca", "privacidade", "engenhariasocial", "golpe"  ]
+tags: [ "seguranca", "privacidade", "apple", "engenhariasocial", "airplay"  ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 
