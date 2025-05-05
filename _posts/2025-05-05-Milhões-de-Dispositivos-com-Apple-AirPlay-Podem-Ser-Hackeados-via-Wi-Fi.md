@@ -8,11 +8,9 @@ tags: [ "seguranca", "privacidade", "apple", "engenhariasocial", "airplay"  ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
 
-![](/images/airplay-2.png)
-
-# 🚨 Milhões de Dispositivos Compatíveis Com Apple AirPlay Podem Ser Hackeados via Wi-Fi!
-
 ### *Entenda como proteger seus aparelhos contra essa nova ameaça digital*
+
+![](/images/airplay-2.png)
 
 Você tem uma TV, caixa de som ou outro aparelho com Apple AirPlay? ⚠️ Atenção: pesquisadores descobriram uma falha que pode deixar esses dispositivos vulneráveis a ataques de hackers.
 
