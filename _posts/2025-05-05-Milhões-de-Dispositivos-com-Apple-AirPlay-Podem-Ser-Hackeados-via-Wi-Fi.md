@@ -7,7 +7,7 @@ path: "_posts" #caminho da pasta
 tags: [ "seguranca", "privacidade", "apple", "engenhariasocial", "airplay"  ]
 #image: /images/CleanShot%202023-12-28%20—%2009h35m29s.png
 ---
-
+# 🚨 Milhões de Dispositivos Compatíveis Com Apple AirPlay Podem Ser Hackeados via Wi-Fi!
 ### *Entenda como proteger seus aparelhos contra essa nova ameaça digital*
 
 ![](/images/airplay-2.png)
