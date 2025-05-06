@@ -43,10 +43,10 @@ Sim, até Carros com CarPlay estão na mira! 😳 Mas, nesse caso, o ataque só 
 - TVs, caixas de som e outros aparelhos com suporte AirPlay (ainda aguardando atualizações)
 
 ## 📢 O que você pode fazer?
-	1.	✅ Atualize todos os seus dispositivos com AirPlay (TVs, caixas de som, etc.);
-	2.	🔒 Evite usar redes Wi-Fi públicas sem proteção;
-	3.	🛠 Consulte o fabricante do seu dispositivo para saber se há atualização disponível;
-	4.	🧠 Desative o AirPlay em aparelhos que você não usa com frequência.
+1. ✅ Atualize todos os seus dispositivos com AirPlay (TVs, caixas de som, etc.);
+2. 🔒 Evite usar redes Wi-Fi públicas sem proteção;
+3. 🛠 Consulte o fabricante do seu dispositivo para saber se há atualização disponível;
+4. 🧠 Desative o AirPlay em aparelhos que você não usa com frequência.
 
 ## 🤔 Por que isso é tão sério?
 
