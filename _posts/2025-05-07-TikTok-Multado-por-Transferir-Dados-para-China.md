@@ -5,7 +5,7 @@ date: 2025-05-07 09:41 -0300 #formato padrão data e hora
 categories: Post
 path: "_posts" #caminho da pasta
 tags: [ "tiktok", "privacidade", "gdpr"  ]
-image: /images/tiktok.png
+#image: /images/tiktok.png
 ---
 
 # TikTok é multado em €530 milhões por transferir dados de usuários europeus para a China
