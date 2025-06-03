@@ -9,9 +9,9 @@ O **PodApps** foi o meio para o começo da sua vida com mais controle de seus da
 
 Ao longo dos anos, fui aprimorando os recursos para entregar melhor qualidade e conteúdo para você e, claro, isso tudo teve um custo. O projeto existiu da melhor forma graças aos apoiadores mensais que ajudaram na estrutura e sustentabilidade.
 
-Conforme comentado no [primeiro post de 2024](https://gustavosaez.github.io/destaques/2023/12/28/Hello-2024.html), o apoio financeiro, aos poucos foi se encerrando, isso levou ao fim do projeto PodApps tornando inviável a sustentação de um domínio e hospedagem. Afinal tanto o PodApps quanto este blog é conteúdo livre e acessível sem anúncios, sem rastreadores e sem analytics, apenas, conteúdo e conhecimento entregue sem nenhuma contra-partida (nem que seja velada).
+Conforme comentado no [primeiro post de 2024](https://gustavosaez.github.io/destaques/2023/12/28/Hello-2024.html), o apoio financeiro, aos poucos foi se encerrando, isso levou ao fim do projeto PodApps tornando inviável a sustentação de um domínio e hospedagem. Afinal tanto o PodApps quanto este blog é conteúdo livre e acessível sem anúncios, apenas, conteúdo e conhecimento entregue sem nenhuma contra-partida (nem que seja velada).
 
->Apoiar o blog não é, nunca foi e nunca será obrigatório.
+>**Apoiar o blog não é, nunca foi e nunca será obrigatório**.
 
 Hoje, por enquanto, não há custo algum para mantê-lo operacional, tudo é feito de forma manual e orgânica.
 
@@ -95,7 +95,7 @@ Se você já escutou, leu ou obteve ajuda com o conteúdo, considere apoiar e pa
     <button class="button button2" target="_blank" onclick="window.location.href='https://paypal.me/gustavosaez';">Paypal</button>
     <button class="button button3" target="_blank" onclick="window.location.href='https://donate.stripe.com/bIYg0B4JL5xI0Vy4gl';">Stripe</button>
     <button class="button button4" target="_blank" onclick="window.location.href='https://nubank.com.br/pagar/3o2u3/hIoRzYDcO1';">PIX</button>
-    <button class="button button5" target="_blank" onclick="window.location.href='link.mercadopago.com.br/gustavosaez';">Mercado Pago</button>
+    <button class="button button5" target="_blank" onclick="window.location.href='https://link.mercadopago.com.br/gustavosaez';">Mercado Pago</button>
   </div>
   <BR>
 </html>
